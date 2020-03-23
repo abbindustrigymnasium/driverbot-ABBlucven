@@ -1,2 +1,5 @@
 Lektion 03-23 12.05-14.15
-Kopplat in motor till bil och byggt test plattform, även testat med exempel driverbot kod från Jocke men bilen rör sig bara framåt.
+Kopplat in motor till bil, även testat med exempel driverbot kod från Jocke men bilen rör sig bara framåt.
+
+Lektion 03-23 14.35-16.10
+Försökt få bilen att backa utan tur, byggt bil plattform och modifierat konskruktion av bil till en mer robust design
