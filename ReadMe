@@ -3,3 +3,6 @@ Kopplat in motor till bil, även testat med exempel driverbot kod från Jocke me
 
 Lektion 03-23 14.35-16.10
 Försökt få bilen att backa utan tur, byggt bil plattform och modifierat konskruktion av bil till en mer robust design
+
+Lektion 03-24 12.05-14.15
+Fått bilen att köra framåt och bakåt, även kopplat in servo och fått själva servot att snurra genom hemsidan.
