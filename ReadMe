@@ -1,3 +1,9 @@
+Driverbot projekt:
+Vi ska göra en bil byggd utav konstruktions lego som ska kunna köra framåt och bakåt samt helst svänga också,
+detta ska vi göra genom en mikrokontroll, en motor och ett servo som ska kopplas ihop genom MQTT. Bilen ska styras genom en hemsida.
+
+
+
 Lektion 03-23 12.05-14.15
 Kopplat in motor till bil, även testat med exempel driverbot kod från Jocke men bilen rör sig bara framåt.
 
